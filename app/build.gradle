@@ -8,7 +8,7 @@ android {
     compileSdkVersion 33
     buildToolsVersion "30.0.3"
     defaultConfig {
-        applicationId "com.kidozh.discuzhub"
+        applicationId "Xyz.CreateBBS.Mobile"
         minSdkVersion 24
         targetSdkVersion 33
         versionCode 49
@@ -51,11 +51,10 @@ android {
         single {
             // fill your bbs id
             manifestPlaceholders = [
-                    discuz_title: "论坛名称（如：西北工业大学三行四方）",
-                    discuz_base_url: "服务网址（如：https://bbs.example.com）",
+                    discuz_title: "机械动力模组论坛",
+                    discuz_base_url: "https://createbbs.xyz/",
             ]
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
-            applicationIdSuffix ".bbs"
         }
         qzzn {
             // an example for QZZN BBS
