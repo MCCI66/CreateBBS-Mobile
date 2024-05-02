@@ -60,33 +60,7 @@ For detailed information, update and policy, please visit [our homepage](https:/
 	- Auth freely
 	- Full support for mobile BBS
 	
-# Screenshots
 
-The forums below have no relationship with us and provide no warranty for any functions and support.
-
-## Home
-
-![Homepage](./screenshot/home.jpg)
-
-## Forums
-
-![Homepage](./screenshot/forums.jpg)
-
-## Threads of the forum
-
-![Homepage](./screenshot/forumDisplay.jpg)
-
-## Threads display
-
-![Homepage](./screenshot/threads.jpg)
-
-## Poll
-
-![Homepage](./screenshot/poll.jpg)
-
-## Notifications and pushes
-
-![Homepage](./screenshot/notifications.jpg)
 
 # Open source license
 
