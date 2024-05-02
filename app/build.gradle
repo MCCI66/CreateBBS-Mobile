@@ -11,8 +11,8 @@ android {
         applicationId "Xyz.CreateBBS.Mobile"
         minSdkVersion 24
         targetSdkVersion 33
-        versionCode 49
-        versionName "5.6"
+        versionCode 1
+        versionName "1.0"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         manifestPlaceholders = [
                 discuz_title: "NOT_IMPLEMENTED",
